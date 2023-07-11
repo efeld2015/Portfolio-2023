@@ -1749,6 +1749,9 @@ input, select, textarea {
 
 /* List */
 
+.menu a {
+	text-decoration: none;
+}
 	ul {
 		list-style: disc;
 		padding-left: 1em;

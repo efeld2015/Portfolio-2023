@@ -2110,6 +2110,10 @@ input, select, textarea {
 
 /* Banner */
 
+.resume-btn {
+	font-size: 20px;
+}
+
 	#banner {
 		position: relative;
 		padding: 4.5em;

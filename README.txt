@@ -21,6 +21,7 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+		Placekitten (placekitten.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
